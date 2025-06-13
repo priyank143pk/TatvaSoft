@@ -1,0 +1,15 @@
+E:\InterShip\Day 13\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+E:\InterShip\Day 13\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+E:\InterShip\Day 13\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+E:\InterShip\Day 13\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+E:\InterShip\Day 13\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+E:\InterShip\Day 13\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll

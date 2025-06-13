@@ -1,0 +1,14 @@
+E:\InterShip\Day 13\Mission\Mission.Entities\bin\Release\net8.0\Mission.Entities.deps.json
+E:\InterShip\Day 13\Mission\Mission.Entities\bin\Release\net8.0\Mission.Entities.runtimeconfig.json
+E:\InterShip\Day 13\Mission\Mission.Entities\bin\Release\net8.0\Mission.Entities.dll
+E:\InterShip\Day 13\Mission\Mission.Entities\bin\Release\net8.0\Mission.Entities.pdb
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.AssemblyInfo.cs
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.dll
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\refint\Mission.Entities.dll
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.pdb
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.genruntimeconfig.cache
+E:\InterShip\Day 13\Mission\Mission.Entities\obj\Release\net8.0\ref\Mission.Entities.dll
